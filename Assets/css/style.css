@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:wght@400;500;600;700&display=swap');
+
+*,
+::after,
+::before{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+}
+:root{
+    --bg-primary: #ffffff;
+    --bg-secondary: #f0eeeb;
+    --bg-dark: #000000;
+    --social-color: #c8c8c8;
+    --heading-color: #292929;
+    --para-color: #5a5444;
+    --btn-color: #a5afaf;
+
+}
+
+
+h1, h2, h3, h4, h5, h6, p{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Cabin', sans-serif;
+    font-size: 62.5%;
+    scroll-behavior: smooth;
+}
+
+
+
+
+
+
+
+
+
+
+
+
